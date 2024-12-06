@@ -1,0 +1,3 @@
+[submodule "pulsexpressv2"]
+	path = pulsexpressv2
+	url = git@github.com:CJ-Felicitas/pulsexpressv2.git
